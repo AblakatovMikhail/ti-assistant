@@ -244,503 +244,503 @@
     "description": "Label for section explaining which player has had their cultural planets exhausted."
   },
   "Agendas.Anti-Intellectual Revolution.Description": {
-    "defaultMessage": "FOR : After a player researches a technology, they must destroy 1 of their non-fighter ships.{br}AGAINST : At the start of the next strategy phase, each player chooses and exhausts 1 planet for each technology they own.",
+    "defaultMessage": "За: после того как игрок исследовал технологию, он должен уничтожить 1 свой корабль (кроме истребителей).{br}Против: в начале следующей фазы стратегии каждый игрок переворачивает 1 карту планеты за каждую технологию, которой владеет.",
     "description": "Description for Agenda Card: Anti-Intellectual Revolution"
   },
   "Agendas.Anti-Intellectual Revolution.Title": {
-    "defaultMessage": "Anti-Intellectual Revolution",
+    "defaultMessage": "Анти-технологическая революция",
     "description": "Title of Agenda Card: Anti-Intellectual Revolution"
   },
   "Agendas.Archived Secret.Description": {
-    "defaultMessage": "Elected player draws 1 secret objective.",
+    "defaultMessage": "Выбранный игрок берёт 1 карту секретной цели.",
     "description": "Description for Agenda Card: Archived Secret"
   },
   "Agendas.Archived Secret.Title": {
-    "defaultMessage": "Archived Secret",
+    "defaultMessage": "Секретные архивы",
     "description": "Title of Agenda Card: Archived Secret"
   },
   "Agendas.Armed Forces Standardization.Description": {
-    "defaultMessage": "The elected player places command tokens from their reinforcements so that they have 3 tokens in their tactic pool, 3 tokens in their fleet pool and 2 tokens in their strategy pool. They return any excess tokens to their reinforcements.",
+    "defaultMessage": "Выбранный игрок перераспределяет жетоны приказов на своём планшете приказов, так чтобы в его тактическом резерве было 3 жетона, в резерве флота - 3 жетона, а в стратегическом резерве - 2 жетона. Недостающие жетоны берутся из снабжения, лишние - возвращаются в снабжение.",
     "description": "Description for Agenda Card: Armed Forces Standardization"
   },
   "Agendas.Armed Forces Standardization.Title": {
-    "defaultMessage": "Armed Forces Standardization",
+    "defaultMessage": "Стандартизация вооружённых сил",
     "description": "Title of Agenda Card: Armed Forces Standardization"
   },
   "Agendas.Arms Reduction.Description": {
-    "defaultMessage": "FOR : Each player destroys all but 2 of their dreadnaughts and all but 4 of their cruisers.{br}AGAINST : At the start of the next strategy phase, each player exhausts each of their planets that have a technology specialty.",
+    "defaultMessage": "За: Каждый игрок оставляет себе 2 дредноута и 4 крейсера и уничтожает все остальные отряды этих типов.{br}Против: в начале следующей фазы стратегии игроки переворачивают все карты своих планет с технологической специализацией.",
     "description": "Description for Agenda Card: Arms Reduction"
   },
   "Agendas.Arms Reduction.Title": {
-    "defaultMessage": "Arms Reduction",
+    "defaultMessage": "Договор о разоружении",
     "description": "Title of Agenda Card: Arms Reduction"
   },
   "Agendas.Articles of War.Description": {
-    "defaultMessage": "FOR : All mechs lose their printed abilities except for SUSTAIN DAMAGE.{br}AGAINST : Each player that voted \"For\" gains 3 trade goods.",
+    "defaultMessage": "За: все мехи теряют все указанные на их картах способности, кроме \"ПОГЛОЩЕНИЯ УРОНА\".{br}Против: каждый игрок, проголосовавший \"За\" получает 3 товара.",
     "description": "Description for Agenda Card: Articles of War"
   },
   "Agendas.Articles of War.Title": {
-    "defaultMessage": "Articles of War",
+    "defaultMessage": "Военный устав",
     "description": "Title of Agenda Card: Articles of War"
   },
   "Agendas.Checks and Balances.Description": {
-    "defaultMessage": "FOR : When a player chooses a strategy card during the strategy phase, they give that strategy card to another player that does not have 1 (or a player that does not have 2 in a three- or four-player game), if able.{br}AGAINST : Each player readies only 3 of their planets at the end of this agenda phase.",
+    "defaultMessage": "За: когда любой игрок выбирает карту стратегии в фазе стратегии, он при возможности отдаёт её другому игроку, у которого ещё нет карты стратегии (или нет двух карт при игре втроём или вчетвером).{br}Против: в конце этой фазы политики каждый игрок подготавливает только 3 своих карты планет.",
     "description": "Description for Agenda Card: Checks and Balances"
   },
   "Agendas.Checks and Balances.Title": {
-    "defaultMessage": "Checks and Balances",
+    "defaultMessage": "Сдержки и противовесы",
     "description": "Title of Agenda Card: Checks and Balances"
   },
   "Agendas.Clandestine Operations.Description": {
-    "defaultMessage": "FOR : Each player removes 2 command tokens from their command sheet and returns those tokens to their reinforcements.{br}AGAINST : Each player removes 1 command token from their fleet pool and returns that token to their reinforcements.",
+    "defaultMessage": "За: каждый игрок убирает 2 жетона приказов со своего планшета приказов и возвращает их в снабжение.{br}Против: каждый игрок убирает 1 жетон приказа из своего резерва флота и возвращает его в снабжение.",
     "description": "Description for Agenda Card: Clandestine Operations"
   },
   "Agendas.Clandestine Operations.Title": {
-    "defaultMessage": "Clandestine Operations",
+    "defaultMessage": "Тайные операции",
     "description": "Title of Agenda Card: Clandestine Operations"
   },
   "Agendas.Classified Document Leaks.Description": {
-    "defaultMessage": "When this agenda is revealed, if there are no scored secret objectives, discard this card and reveal another agenda from the top of the deck.{br}The elected secret objective becomes a public objective; place it near the other public objectives in the common play area.",
+    "defaultMessage": "Если на момент раскрытия этой карты политики в игре нет выполненных секретных целей, сбросьте её и раскройте новую карту с верха колоды политики.{br}Выбранная секретная цель становится общей целью; выложите её рядом с остальными общими целями в общей игровой зоне.",
     "description": "Description for Agenda Card: Classified Document Leaks"
   },
   "Agendas.Classified Document Leaks.Title": {
-    "defaultMessage": "Classified Document Leaks",
+    "defaultMessage": "Утечка секретной информации",
     "description": "Title of Agenda Card: Classified Document Leaks"
   },
   "Agendas.Colonial Redistribution.Description": {
-    "defaultMessage": "Destroy each unit on the elected planet.{br}Then, the player who controls that planet chooses 1 player with the fewest victory points; that player may place 1 infantry from their reinforcements on the elected planet.",
+    "defaultMessage": "Уничтожьте все отряды на выбранной планете. Затем игрок, контролирующий эту планету, выбирает игрока с наименьшим количеством победных очков; этот игрок может разместить 1 отряд пехоты из своего снабжения на выбранной планете.",
     "description": "Description for Agenda Card: Colonial Redistribution"
   },
   "Agendas.Colonial Redistribution.Title": {
-    "defaultMessage": "Colonial Redistribution",
+    "defaultMessage": "Передел колоний",
     "description": "Title of Agenda Card: Colonial Redistribution"
   },
   "Agendas.Committee Formation.Description": {
-    "defaultMessage": "The elected player gains this card.{br}Before players vote on an agenda that requires a player to be elected, the owner of this card may discard this card to choose a player to be elected. Players do not vote on that agenda.",
+    "defaultMessage": "Выбранный игрок получает эту карту.{br}Перед началом голосования по карте политики, требующей выбрать игрока, владелец карты \"Формирование комитета\" может сбросить её и выбрать игрока самостоятельно. Игроки не голосуют по этой карте политики.",
     "description": "Description for Agenda Card: Committee Formation"
   },
   "Agendas.Committee Formation.Title": {
-    "defaultMessage": "Committee Formation",
+    "defaultMessage": "Формирование комитета",
     "description": "Title of Agenda Card: Committee Formation"
   },
   "Agendas.Compensated Disarmament.Description": {
-    "defaultMessage": "Destroy each ground force on the elected planet; for each unit that was destroyed, the player who controls that planet gains 1 trade good.",
+    "defaultMessage": "Уничтожьте все наземный войска на выбранной планете. Затем игрок, контролирующий эту планету, получает 1 товар за каждый уничтоженный отряд.",
     "description": "Description for Agenda Card: Compensated Disarmament"
   },
   "Agendas.Compensated Disarmament.Title": {
-    "defaultMessage": "Compensated Disarmament",
+    "defaultMessage": "Оплачиваемое разоружение",
     "description": "Title of Agenda Card: Compensated Disarmament"
   },
   "Agendas.Conventions of War.Description": {
-    "defaultMessage": "FOR : Players cannot use BOMBARDMENT against units that are on cultural planets.{br}AGAINST : Each player that voted \"Against\" discards all of their action cards.",
+    "defaultMessage": "За: игроки не могут использовать способность \"БОМБАРДИРОВКА\" против отрядов, находящихся на культурных планетах.{br}Против: каждый игрок проголосовавший \"против\", сбрасывает все свои карты действий.",
     "description": "Description for Agenda Card: Conventions of War"
   },
   "Agendas.Conventions of War.Title": {
-    "defaultMessage": "Conventions of War",
+    "defaultMessage": "Правила ведения войны",
     "description": "Title of Agenda Card: Conventions of War"
   },
   "Agendas.Core Mining.Description": {
-    "defaultMessage": "Attach this card to the elected planet's card.{br}Then, destroy 1 infantry on the planet.{br}The resource value of this planet is increased by 2.",
+    "defaultMessage": "Прикрепите эту карту к карте выбранной планеты.{br}Затем уничтожьте 1 отряд пехоты на этой планете.{br}Значение ресурсов этой планеты увеличивается на 2.",
     "description": "Description for Agenda Card: Core Mining"
   },
   "Agendas.Core Mining.Title": {
-    "defaultMessage": "Core Mining",
+    "defaultMessage": "Разработки ядра",
     "description": "Title of Agenda Card: Core Mining"
   },
   "Agendas.Covert Legislation.Description": {
-    "defaultMessage": "When this agenda is revealed, the speaker draws the next card in the agenda deck but does not reveal it to the other players.{br}Instead, the speaker reads the eligible outcomes aloud (For, Against, Elect Player, etc.); the other players vote for these outcomes as if they were outcomes of this agenda, without knowing their effects.",
+    "defaultMessage": "Когда раскрыта эта карта политики, председатель берёт следующую карту политики, но не раскрывает её остальным игрокам. Вместо этого председатель зачитывает вслух только доступные варианты решений (за, против, выберите игрока и т.д.); остальные игроки голосуют, не зная содержания этих решений.",
     "description": "Description for Agenda Card: Covert Legislation"
   },
   "Agendas.Covert Legislation.Title": {
-    "defaultMessage": "Covert Legislation",
+    "defaultMessage": "Тайный законопроект",
     "description": "Title of Agenda Card: Covert Legislation"
   },
   "Agendas.Demilitarized Zone.Description": {
-    "defaultMessage": "Attach this card to the elected planet's card.{br}Then, destroy all units on that planet.{br}Player's units cannot land, be produced, or be placed on this planet.",
+    "defaultMessage": "Прикрепите эту карту к карте выбранной планеты. Затем уничтожьте все отряды на этой планете.{br}Игроки не могут высаживать, производить или размещать отряды на этой планете.",
     "description": "Description for Agenda Card: Demilitarized Zone"
   },
   "Agendas.Demilitarized Zone.Title": {
-    "defaultMessage": "Demilitarized Zone",
+    "defaultMessage": "Демилитаризированная зона",
     "description": "Title of Agenda Card: Demilitarized Zone"
   },
   "Agendas.Economic Equality.Description": {
-    "defaultMessage": "FOR : Each player returns all of their trade goods to the supply. Then, each player gains 5 trade goods.{br}AGAINST : Each player returns all of their trade goods to the supply.",
+    "defaultMessage": "За: каждый игрок возвращает все свои товары в общий запас. Затем каждый игрок получает 5 товаров.{br}Против: каждый игрок возвращает все свои товары в общий запас.",
     "description": "Description for Agenda Card: Economic Equality"
   },
   "Agendas.Economic Equality.Title": {
-    "defaultMessage": "Economic Equality",
+    "defaultMessage": "Экономическое равенство",
     "description": "Description for Agenda Card: Economic Equality"
   },
   "Agendas.Enforced Travel Ban.Description": {
-    "defaultMessage": "FOR : Alpha and beta wormholes have no effect during movement.{br}AGAINST : Destroy each PDS in or adjacent to a system that contains a wormhole.",
+    "defaultMessage": "За: при передвижении нельзя использовать альфа- и бета-червоточины.{br}Против: уничтожьте все ПСО в системах с червоточинами и в смежных системах.",
     "description": "Description for Agenda Card: Enforced Travel Ban"
   },
   "Agendas.Enforced Travel Ban.Title": {
-    "defaultMessage": "Enforced Travel Ban",
+    "defaultMessage": "Ограничение на передвижение",
     "description": "Title of Agenda Card: Enforced Travel Ban"
   },
   "Agendas.Executive Sanctions.Description": {
-    "defaultMessage": "FOR : Each player can have a maximum of 3 action cards in their hand.{br}AGAINST : Each player discards 1 random action card from their hand.",
+    "defaultMessage": "За: у каждого игрока на руке может быть не более 3 карт действий.{br}Против: каждый игрок сбрасывает 1 случайную карту действий с руки.",
     "description": "Description for Agenda Card: Executive Sanctions"
   },
   "Agendas.Executive Sanctions.Title": {
-    "defaultMessage": "Executive Sanctions",
+    "defaultMessage": "Ограничение полномочий",
     "description": "Title of Agenda Card: Executive Sanctions"
   },
   "Agendas.Fleet Regulations.Description": {
-    "defaultMessage": "FOR : Each player cannot have more than 4 tokens in their fleet pool.{br}AGAINST : Each player places 1 command token from their reinforcements in their fleet pool.",
+    "defaultMessage": "За: у каждого игрока не может быть больше 4 жетонов в резерве флота.{br}Против: каждый игрок кладёт 1 жетон приказа из снабжения в свой резерв флота.",
     "description": "Description for Agenda Card: Fleet Regulations"
   },
   "Agendas.Fleet Regulations.Title": {
-    "defaultMessage": "Fleet Regulations",
+    "defaultMessage": "Регулирование флота",
     "description": "Title of Agenda Card: Fleet Regulations"
   },
   "Agendas.Galactic Crisis Pact.Description": {
-    "defaultMessage": "Each player may perform the secondary ability of the elected strategy card without spending a command token; command tokens placed by the ability are placed from a player's reinforcements instead.",
+    "defaultMessage": "Каждый игрок может применить второстепенную способность выбранной карты стратегии, не тратя жетон приказа; если эта способность требует выложить куда-либо жетоны приказов, они выкладываются из снабжения игроков.",
     "description": "Description for Agenda Card: Galactic Crisis Pact"
   },
   "Agendas.Galactic Crisis Pact.Title": {
-    "defaultMessage": "Galactic Crisis Pact",
+    "defaultMessage": "Пакт о галактическом кризисе",
     "description": "Title of Agenda Card: Galactic Crisis Pact"
   },
   "Agendas.Holy Planet of Ixth.Description": {
-    "defaultMessage": "Attach this card to the elected planet's card.{br}The planet's owner gains 1 victory point.{br}Units on this planet cannot use PRODUCTION.{br}When a player gains control of this planet, they gain 1 victory point.{br}When a player loses control of this planet, they lose 1 victory point.",
+    "defaultMessage": "Прикрепите эту карту к карте выбранной планеты. Владелец планеты получает 1 победное очко. Отряды на этой планете не могут использовать способность \"ПРОИЗВОДСТВО\".{br}Когда игрок получает контроль над этой планетой, он получает 1 победное очко. Когда игрок теряет контроль над этой планетой, он теряет 1 победное очко.",
     "description": "Description for Agenda Card: Holy Planet of Ixth"
   },
   "Agendas.Holy Planet of Ixth.Title": {
-    "defaultMessage": "Holy Planet of Ixth",
+    "defaultMessage": "Священная планета икстов",
     "description": "Title of Agenda Card: Holy Planet of Ixth"
   },
   "Agendas.Homeland Defense Act.Description": {
-    "defaultMessage": "FOR : Each player can have any number of PDS units on planets they control.{br}AGAINST : Each player destroys 1 of their PDS units.",
+    "defaultMessage": "За: каждый игрок может размещать любое количество ПСО на подконтрольных ему планетах.{br}Против: каждый игрок уничтожает 1 из своих ПСО.",
     "description": "Description for Agenda Card: Homeland Defense Act"
   },
   "Agendas.Homeland Defense Act.Title": {
-    "defaultMessage": "Homeland Defense Act",
+    "defaultMessage": "Закон об обороне",
     "description": "Title of Agenda Card: Homeland Defense Act"
   },
   "Agendas.Imperial Arbiter.Description": {
-    "defaultMessage": "The elected player gains this card.{br}At the end of the strategy phase, the owner of this card may discard this card to swap 1 of their strategy cards with 1 of another player's strategy cards.",
+    "defaultMessage": "Выбранный игрок получает эту карту.{br}В конце фазы стратегии владелец этой карты может сбросить её, чтобы обменять 1 из своих карт стратегии на 1 карту стратегии другого игрока.",
     "description": "Description for Agenda Card: Imperial Arbiter"
   },
   "Agendas.Imperial Arbiter.Title": {
-    "defaultMessage": "Imperial Arbiter",
+    "defaultMessage": "Имперский арбитр",
     "description": "Title of Agenda Card: Imperial Arbiter"
   },
   "Agendas.Incentive Program.Description": {
-    "defaultMessage": "FOR : Draw and reveal 1 stage I public objective from the deck and place it near the public objectives.{br}AGAINST : Draw and reveal 1 stage II public objective from the deck and place it near the public objectives.",
+    "defaultMessage": "За: возьмите и раскройте 1 карту общей цели этапа I. Выложите её рядом с картами общих целей.{br}Против: возьмите и раскройте 1 карту общей цели этапа II. Выложите её рядом с картами общих целей.",
     "description": "Description for Agenda Card: Incentive Program"
   },
   "Agendas.Incentive Program.Title": {
-    "defaultMessage": "Incentive Program",
+    "defaultMessage": "Программа поощрений",
     "description": "Title for Agenda Card: Incentive Program"
   },
   "Agendas.Ixthian Artifact.Description": {
-    "defaultMessage": "FOR : The speaker rolls 1 die. If the result is 6-10, each player may research 2 technologies. If the result is 1-5, destroy all units in Mecatol Rex's system, and each player with units in systems adjacent to Mecatol Rex's system destroys 3 of their units in each of those systems.{br}AGAINST : No effect.",
+    "defaultMessage": "За: председатель бросает 1 кубик. Если результат 6-10: каждый игрок может исследовать 2 технологии. Если результат 1-5: уничтожьте все отряды в системе Мекатол-Рекса; каждый игрок, у которого есть отряды в системах, смежных с ней, уничтожает 3 своих отряда в каждой такой системе.{br}Против: ничего не происходит.",
     "description": "Description for Agenda Card: Ixthian Artifact"
   },
   "Agendas.Ixthian Artifact.Title": {
-    "defaultMessage": "Ixthian Artifact",
+    "defaultMessage": "Артефакт икстов",
     "description": "Title of Agenda Card: Ixthian Artifact"
   },
   "Agendas.Judicial Abolishment.Description": {
-    "defaultMessage": "When this agenda is revealed, if there are no laws in play, discard this card and reveal another agenda from the top of the deck.{br}Discard the elected law from play.",
+    "defaultMessage": "Если на момент раскрытия этой карты политики в игре нет действующих законов, сбросьте её и раскройте новую карту с верха колоды политики.{br}Сбросьте карту выбранного закона.",
     "description": "Description for Agenda Card: Judicial Abolishment"
   },
   "Agendas.Judicial Abolishment.Title": {
-    "defaultMessage": "Judicial Abolishment",
+    "defaultMessage": "Неконституционный закон",
     "description": "Title of Agenda Card: Judicial Abolishment"
   },
   "Agendas.Minister of Antiques.Description": {
-    "defaultMessage": "The elected player gains 1 relic.",
+    "defaultMessage": "Выбранный игрок получает 1 реликвию.",
     "description": "Description for Agenda Card: Minister of Antiques"
   },
   "Agendas.Minister of Antiques.Title": {
-    "defaultMessage": "Minister of Antiques",
+    "defaultMessage": "Министр древностей",
     "description": "Title of Agenda Card: Minister of Antiques"
   },
   "Agendas.Minister of Commerce.Description": {
-    "defaultMessage": "The elected player gains this card.{br}After the owner of this card replenishes commodities, they gain 1 trade good for each player that is their neighbor.",
+    "defaultMessage": "Выбранный игрок получает эту карту.{br}После того как владелец этой карты пополнил продукцию, он получает 1 товар от каждого соседнего игрока.",
     "description": "Description for Agenda Card: Minister of Commerce"
   },
   "Agendas.Minister of Commerce.Title": {
-    "defaultMessage": "Minister of Commerce",
+    "defaultMessage": "Министр торговли",
     "description": "Title of Agenda Card: Minister of Commerce"
   },
   "Agendas.Minister of Exploration.Description": {
-    "defaultMessage": "The elected player gains this card.{br}When the owner of this card gains control of a planet, they gain 1 trade good.",
+    "defaultMessage": "Выбранный игрок получает эту карту.{br}Когда владелец этой карты получает контроль над планетой, он получает 1 товар.",
     "description": "Description for Agenda Card: Minister of Exploration"
   },
   "Agendas.Minister of Exploration.Title": {
-    "defaultMessage": "Minister of Exploration",
+    "defaultMessage": "Министр открытий",
     "description": "Title of Agenda Card: Minister of Exploration"
   },
   "Agendas.Minister of Industry.Description": {
-    "defaultMessage": "The elected player gains this card.{br}When the owner of this card places a space dock in a system, their units in that system may use their PRODUCTION abilities.",
+    "defaultMessage": "Выбранный игрок получает эту карту.{br}Когда владелец этой карты размещает базу в системе, его отряды в этой системе могут использовать свою способность \"ПРОИЗВОДСТВО\".",
     "description": "Description for Agenda Card: Minister of Industry"
   },
   "Agendas.Minister of Industry.Title": {
-    "defaultMessage": "Minister of Industry",
+    "defaultMessage": "Министр промышленности",
     "description": "Title of Agenda Card: Minister of Industry"
   },
   "Agendas.Minister of Peace.Description": {
-    "defaultMessage": "The elected player gains this card.{br}After a player activates a system that contains 1 or more of a different player's units, the owner of this card may discard this card; immediately end the active player's turn.",
+    "defaultMessage": "Выбранный игрок получает эту карту.{br}После того как игрок активировал систему, в которой есть хотя бы 1 отряд другого игрока, владелец этой карты может сбросьте её; ход активного игрока немедленно завершается.",
     "description": "Description for Agenda Card: Minister of Peace"
   },
   "Agendas.Minister of Peace.Title": {
-    "defaultMessage": "Minister of Peace",
+    "defaultMessage": "Министр мира",
     "description": "Title of Agenda Card: Minister of Peace"
   },
   "Agendas.Minister of Policy.Description": {
-    "defaultMessage": "The elected player gains this card.{br}At the end of the status phase, the owner of this card draws 1 action card.",
+    "defaultMessage": "Выбранный игрок получает эту карту.{br}В конце фазы статуса владелец этой карты берёт 1 карту действия.",
     "description": "Description for Agenda Card: Minister of Policy"
   },
   "Agendas.Minister of Policy.Title": {
-    "defaultMessage": "Minister of Policy",
+    "defaultMessage": "Министр политики",
     "description": "Title of Agenda Card: Minister of Policy"
   },
   "Agendas.Minister of Sciences.Description": {
-    "defaultMessage": "The elected player gains this card.{br}When the owner of this card resolves the primary or secondary ability of the \"Technology\" strategy card, they do not need to spend resources to research technology.",
+    "defaultMessage": "Выбранный игрок получает эту карту.{br}Когда владелец этой карты применяет основную или второстепенную способность карты \"Исследование\", ему не нужно тратить очки ресурсов, чтобы исследовать технологию.",
     "description": "Description for Agenda Card: Minister of Sciences"
   },
   "Agendas.Minister of Sciences.Title": {
-    "defaultMessage": "Minister of Sciences",
+    "defaultMessage": "Министр науки",
     "description": "Title of Agenda Card: Minister of Sciences"
   },
   "Agendas.Minister of War.Description": {
-    "defaultMessage": "The elected player gains this card.{br}The owner of this card may discard this card after performing an action to remove 1 of their command counters from the game board and return it to their reinforcements; then they may perform 1 additional action.",
+    "defaultMessage": "Выбранный игрок получает эту карту.{br}Совершив действие, владелец этой карты может сбросить её, чтобы вернуть 1 свой жетон приказа с поля в снабжение; затем он может совершить 1 дополнительное действие.",
     "description": "Description for Agenda Card: Minister of War"
   },
   "Agendas.Minister of War.Title": {
-    "defaultMessage": "Minister of War",
+    "defaultMessage": "Министр войны",
     "description": "Title of Agenda Card: Minister of War"
   },
   "Agendas.Miscount Disclosed.Description": {
-    "defaultMessage": "When this agenda is revealed, if there are no laws in play, discard this card and reveal another agenda from the top of the deck.{br}Vote on the elected law as if it were just revealed from the top of the deck.",
+    "defaultMessage": "Если на момент раскрытия этой карты политики в игре нет действующих законов, сбросьте её и раскройте новую карту с верха колоды политики.{br}Проголосуйте по выбранному закону, как ели бы он был только что раскрыт с верха колоды политики.",
     "description": "Description for Agenda Card: Miscount Disclosed"
   },
   "Agendas.Miscount Disclosed.Title": {
-    "defaultMessage": "Miscount Disclosed",
+    "defaultMessage": "Пересчёт голосов",
     "description": "Title of Agenda Card: Miscount Disclosed"
   },
   "Agendas.Mutiny.Description": {
-    "defaultMessage": "FOR : Each player who voted \"For\" gains 1 victory point.{br}AGAINST : Each player who voted \"For\" loses 1 victory point.",
+    "defaultMessage": "За: каждый игрок, проголосовавший \"за\" получает 1 победное очко.{br}Против: каждый игрок, проголосовавший \"за\" теряет 1 победное очко.",
     "description": "Description for Agenda Card: Mutiny"
   },
   "Agendas.Mutiny.Title": {
-    "defaultMessage": "Mutiny",
+    "defaultMessage": "Бунт",
     "description": "Title of Agenda Card: Mutiny"
   },
   "Agendas.New Constitution.Description": {
-    "defaultMessage": "When this agenda is revealed, if there are no laws in play, discard this card and reveal another agenda from the top of the deck.{br}FOR : Discard all laws in play. At the start of the next strategy phase, each player exhausts each planet in their home system.{br}AGAINST : No effect.",
+    "defaultMessage": "Если на момент раскрытия этой карты политики в игре нет действующих законов, сбросьте её и раскройте новую карту с верха колоды политики.{br}За: сбросьте карты всех действующих законов. В начале следующей фазы стратегии каждый игрок переворачивает все карты планет в своей родной системе.{br}Против: ничего не происходит.",
     "description": "Description for Agenda Card: New Constitution"
   },
   "Agendas.New Constitution.Title": {
-    "defaultMessage": "New Constitution",
+    "defaultMessage": "Новая конституция",
     "description": "Title of Agenda Card: New Constitution"
   },
   "Agendas.Nexus Sovereignty.Description": {
-    "defaultMessage": "FOR : Alpha and beta wormholes in the wormhole nexus have no effect during movement.{br}AGAINST : Place a gamma wormhole token in the Mecatol Rex system.",
+    "defaultMessage": "За: альфа- и бета-червоточины в ядре червоточин не имеют эффекта во время передвижения.{br}Против: Положите жетон гамма-червоточины в систему Мекатол-Рекс.",
     "description": "Description for Agenda Card: Nexus Sovereignty"
   },
   "Agendas.Nexus Sovereignty.Title": {
-    "defaultMessage": "Nexus Sovereignty",
+    "defaultMessage": "Власть над ядром",
     "description": "Title of Agenda Card: Nexus Sovereignty"
   },
   "Agendas.Political Censure.Description": {
-    "defaultMessage": "The elected player gains this card and 1 victory point.{br}The elected player cannot play action cards.{br}If the owner of this card loses this card, they lose 1 victory point.",
+    "defaultMessage": "Выбранный игрок получает эту карту и 1 победное очко.{br}Выбранный игрок не может играть карты действий.{br}Если владелец этой карты теряет её, он теряет 1 победное очко.",
     "description": "Description for Agenda Card: Political Censure"
   },
   "Agendas.Political Censure.Title": {
-    "defaultMessage": "Political Censure",
+    "defaultMessage": "Политический ценз",
     "description": "Title of Agenda Card: Political Censure"
   },
   "Agendas.Prophecy of Ixth.Description": {
-    "defaultMessage": "The elected player gains this card.{br}The owner of this card applies +1 to the result of their fighter's combat rolls. When the owner of this card uses PRODUCTION, they discard this card unless they produce 2 or more fighters.",
+    "defaultMessage": "Выбранный игрок получает эту карту.{br}Владелец этой карты применяет +1 к результатам боевых проверок своих истребителей. Когда владелец этой карты использует способность \"ПРОИЗВОДСТВО\", он сбрасывает эту карту, если не произведёт при этом хотя бы 2 истребителя.",
     "description": "Description for Agenda Card: Prophecy of Ixth"
   },
   "Agendas.Prophecy of Ixth.Title": {
-    "defaultMessage": "Prophecy of Ixth",
+    "defaultMessage": "Пророчество икстов",
     "description": "Title of Agenda Card: Prophecy of Ixth"
   },
   "Agendas.Public Execution.Description": {
-    "defaultMessage": "The elected player discards all of their action cards. If they have the speaker token, they give it to the player on their left. The elected player cannot vote on any agendas during this agenda phase.",
+    "defaultMessage": "Выбранный игрок сбрасывает все из своих карты действий. Если у него есть жетон председателя, он отдаёт его игроку слева. Выбранный игрок не может голосовать по любым картам во время этой фазы политики.",
     "description": "Description for Agenda Card: Public Execution"
   },
   "Agendas.Public Execution.Title": {
-    "defaultMessage": "Public Execution",
+    "defaultMessage": "Публичная казнь",
     "description": "Title of Agenda Card: Public Execution"
   },
   "Agendas.Publicize Weapon Schematics.Description": {
-    "defaultMessage": "FOR : If any player owns a war sun technology, all players may ignore all prerequisites on war sun technologies. All war suns lose SUSTAIN DAMAGE.{br}AGAINST : Each player that owns a war sun technology discards all of their action cards.",
+    "defaultMessage": "За: если хотя бы у 1 игрока есть технология солнца войны, все игроки могут игнорировать требования технологий солнца войны. Все солнца войны теряют способность \"ПОГЛОЩЕНИЕ УРОНА\".{br}Против: каждый игрок, у которого есть технология солнца войны, сбрасывает все свои карты действий.",
     "description": "Description for Agenda Card: Publicize Weapon Schematics"
   },
   "Agendas.Publicize Weapon Schematics.Title": {
-    "defaultMessage": "Publicize Weapon Schematics",
+    "defaultMessage": "Раскрытие военных чертежей",
     "description": "Title of Agenda Card: Publicize Weapon Schematics"
   },
   "Agendas.Rearmament Agreement.Description": {
-    "defaultMessage": "FOR : Each player places 1 mech from their reinforcements on a planet they control in their home system.{br}AGAINST : Each player replaces each of their mechs with 1 infantry from their reinforcements.",
+    "defaultMessage": "За: каждый игрок размещает 1 меха из своего снабжения на подконтрольной ему планете в его родной системе.{br}Против: каждый игрок заменяет каждого своего меха на отряд пехоты из своего снабжения.",
     "description": "Description for Agenda Card: Rearmament Agreement"
   },
   "Agendas.Rearmament Agreement.Title": {
-    "defaultMessage": "Rearmament Agreement",
+    "defaultMessage": "Соглашение о разоружении",
     "description": "Title of Agenda Card: Rearmament Agreement"
   },
   "Agendas.Regulated Conscription.Description": {
-    "defaultMessage": "FOR : When a player produces units, they produce only 1 fighter and infantry for its cost instead of 2.{br}AGAINST : No effect.",
+    "defaultMessage": "За: Когда игрок производит отряды, он производит только 1 истребитель или отряд пехоты за обычную цену, а не 2.{br}Против: ничего не происходит.",
     "description": "Description for Agenda Card: Regulated Conscription"
   },
   "Agendas.Regulated Conscription.Title": {
-    "defaultMessage": "Regulated Conscription",
+    "defaultMessage": "Плановый призыв",
     "description": "Title of Agenda Card: Regulated Conscription"
   },
   "Agendas.Representative Government.Description": {
-    "defaultMessage": "FOR : Players cannot exhaust planets to cast votes during the agenda phase. Each player may cast 1 vote on each agenda instead.{br}AGAINST : At the start of the next strategy phase, each player that voted \"Against\" exhausts all of their cultural planets.",
+    "defaultMessage": "За: игроки не могут переворачивать карты планет, чтобы голосовать во время фазы политики. Теперь каждый игрок может отдать только 1 голос по каждой карте политики.{br}Против: в начале следующей фазы стратегии каждый игрок, проголосовавший \"против\", переворачивает все карты своих культурных планет.",
     "description": "Description for Agenda Card: Representative Government"
   },
   "Agendas.Representative Government.Omega.Description": {
-    "defaultMessage": "FOR : Players cannot exhaust planets to cast votes during the agenda phase; each player may cast 1 vote on each agenda instead. Players cannot cast additional votes.{br}AGAINST : At the start of the next strategy phase, each player that voted \"Against\" exhausts all of their cultural planets.",
+    "defaultMessage": "За: игроки не могут переворачивать карты планет, чтобы голосовать во время фазы политики; теперь каждый игрок может отдать только 1 голос по каждой карте политики. Игроки не могут добавлять дополнительные голоса.{br}Против: в начале следующей фазы стратегии каждый игрок, проголосовавший \"против\", переворачивает все карты своих культурных планет.",
     "description": "Omega description for Agenda Card: Representative Government"
   },
   "Agendas.Representative Government.Title": {
-    "defaultMessage": "Representative Government",
+    "defaultMessage": "Галактический сенат",
     "description": "Title of Agenda Card: Representative Government"
   },
   "Agendas.Research Grant Reallocation.Description": {
-    "defaultMessage": "The elected player gains any 1 technology of their choice. Then, for each prerequisite on that technology, they remove 1 token from their fleet pool and return it to their reinforcements.",
+    "defaultMessage": "Выбранный игрок получает 1 любую технологию на свой выбор. Затем за каждое требование на этой карте технологий он убирает в снабжение 1 жетон из своего резерва флота.",
     "description": "Description for Agenda Card: Research Grant Reallocation"
   },
   "Agendas.Research Grant Reallocation.Title": {
-    "defaultMessage": "Research Grant Reallocation",
+    "defaultMessage": "Перераспределение гранта",
     "description": "Title of Agenda Card: Research Grant Reallocation"
   },
   "Agendas.Research Team: Biotic.Description": {
-    "defaultMessage": "Attach this card to the elected planet's card.{br}When the owner of this planet researches technology, they may exhaust this card to ignore 1 green prerequisite.",
+    "defaultMessage": "Прикрепите эту карту к карте выбранной планеты.{br}Когда владелец этой планеты исследует технологию, он может перевернуть эту карту политики, чтобы проигнорировать 1 зелёное требование.",
     "description": "Description for Agenda Card: Research Team: Biotic"
   },
   "Agendas.Research Team: Biotic.Title": {
-    "defaultMessage": "Research Team: Biotic",
+    "defaultMessage": "Разработка: биотехнологии",
     "description": "Title of Agenda Card: Research Team: Biotic"
   },
   "Agendas.Research Team: Cybernetic.Description": {
-    "defaultMessage": "Attach this card to the elected planet's card.{br}When the owner of this planet researches technology, they may exhaust this card to ignore 1 yellow prerequisite.",
+    "defaultMessage": "Прикрепите эту карту к карте выбранной планеты.{br}Когда владелец этой планеты исследует технологию, он может перевернуть эту карту политики, чтобы проигнорировать 1 жёлтое требование.",
     "description": "Description for Agenda Card: Research Team: Cybernetic"
   },
   "Agendas.Research Team: Cybernetic.Title": {
-    "defaultMessage": "Research Team: Cybernetic",
+    "defaultMessage": "Разработка: кибернетика",
     "description": "Title of Agenda Card: Research Team: Cybernetic"
   },
   "Agendas.Research Team: Propulsion.Description": {
-    "defaultMessage": "Attach this card to the elected planet's card.{br}When the owner of this planet researches technology, they may exhaust this card to ignore 1 blue prerequisite.",
+    "defaultMessage": "Прикрепите эту карту к карте выбранной планеты.{br}Когда владелец этой планеты исследует технологию, он может перевернуть эту карту политики, чтобы проигнорировать 1 синее требование.",
     "description": "Description for Agenda Card: Research Team: Propulsion"
   },
   "Agendas.Research Team: Propulsion.Title": {
-    "defaultMessage": "Research Team: Propulsion",
+    "defaultMessage": "Разработка: двигатели",
     "description": "Title of Agenda Card: Research Team: Propulsion"
   },
   "Agendas.Research Team: Warfare.Description": {
-    "defaultMessage": "Attach this card to the elected planet's card.{br}When the owner of this planet researches technology, they may exhaust this card to ignore 1 red prerequisite.",
+    "defaultMessage": "Прикрепите эту карту к карте выбранной планеты.{br}Когда владелец этой планеты исследует технологию, он может перевернуть эту карту политики, чтобы проигнорировать 1 красное требование.",
     "description": "Description for Agenda Card: Research Team: Warfare"
   },
   "Agendas.Research Team: Warfare.Title": {
-    "defaultMessage": "Research Team: Warfare",
+    "defaultMessage": "Разработка: оружие",
     "description": "Title of Agenda Card: Research Team: Warfare"
   },
   "Agendas.Search Warrant.Description": {
-    "defaultMessage": "The elected player gains this card and draws 2 secret objectives.{br}The owner of this card plays with their secret objectives revealed.",
+    "defaultMessage": "Выбранный игрок получает эту карту и берёт 2 секретные цели.{br}Владелец этой карты держит все свои карты секретных целей в открытую.",
     "description": "Description for Agenda Card: Search Warrant"
   },
   "Agendas.Search Warrant.Title": {
-    "defaultMessage": "Search Warrant",
+    "defaultMessage": "Ордер на обыск",
     "description": "Title of Agenda Card: Search Warrant"
   },
   "Agendas.Seed of an Empire.Description": {
-    "defaultMessage": "FOR : The player with most victory points gains 1 victory point.{br}AGAINST : The player with the fewest victory points gains 1 victory point.",
+    "defaultMessage": "За: игрок, у которого больше всего победных очков, получает 1 победное очко.{br}Против: игрок, у которого меньше всего победных очков, получает 1 победное очко.",
     "description": "Description for Agenda Card: Seed of an Empire"
   },
   "Agendas.Seed of an Empire.Title": {
-    "defaultMessage": "Seed of an Empire",
+    "defaultMessage": "Ростки империи",
     "description": "Title of Agenda Card: Seed of an Empire"
   },
   "Agendas.Senate Sanctuary.Description": {
-    "defaultMessage": "Attach this card to the elected planet's card.{br}The influence value of this planet is increased by 2.",
+    "defaultMessage": "Прикрепите эту карту к карте выбранной планеты.{br}Значение влияния этой планеты увеличивается на 2.",
     "description": "Description for Agenda Card: Senate Sanctuary"
   },
   "Agendas.Senate Sanctuary.Title": {
-    "defaultMessage": "Senate Sanctuary",
+    "defaultMessage": "Убежище сената",
     "description": "Title of Agenda Card: Senate Sanctuary"
   },
   "Agendas.Shard of the Throne.Description": {
-    "defaultMessage": "The elected player gains this card and 1 victory point.{br}A player gains this card and 1 victory point when they win a combat against the owner of this card.{br}Then, the previous owner of this card loses 1 victory point.",
+    "defaultMessage": "Выбранный игрок получает эту карту и 1 победное очко. Другой игрок получает эту карту и 1 победное очко, когда выигрывает бой против обладателя этой карты.{br}Затем предыдущий владелец этой карты теряет 1 победное очко.",
     "description": "Description for Agenda Card: Shard of the Throne"
   },
   "Agendas.Shard of the Throne.Title": {
-    "defaultMessage": "Shard of the Throne",
+    "defaultMessage": "Осколок власти",
     "description": "Title of Agenda Card: Shard of the Throne"
   },
   "Agendas.Shared Research.Description": {
-    "defaultMessage": "FOR : Each player's units can move through nebulae.{br}AGAINST : Each player places a command token from their reinforcements in their home system, if able.",
+    "defaultMessage": "За: отряды всех игроков способны передвигаться через туманности.{br}Против: каждый игрок выкладывает жетон приказа из снабжения в свою родную систему (при возможности).",
     "description": "Description for Agenda Card: Shared Research"
   },
   "Agendas.Shared Research.Title": {
-    "defaultMessage": "Shared Research",
+    "defaultMessage": "Совместные исследования",
     "description": "Title of Agenda Card: Shared Research"
   },
   "Agendas.Swords to Plowshares.Description": {
-    "defaultMessage": "FOR : Each player destroys half of their infantry on each planet they control, rounded up. Then, each player gains trade goods equal to the number of their infantry that were destroyed.{br}AGAINST : Each player places 1 infantry from their reinforcements on each planet they control.",
+    "defaultMessage": "За: каждый игрок уничтожает половину своих отрядов пехоты (с округлением вверх) на каждой подконтрольной ему планете. Затем каждый игрок получает столько товаров, сколько он уничтожил отрядов пехоты.{br}Против: каждый игрок размещает 1 отряд пехоты из снабжения на каждой подконтрольной ему планете.",
     "description": "Description for Agenda Card: Swords to Plowshares"
   },
   "Agendas.Swords to Plowshares.Title": {
-    "defaultMessage": "Swords to Plowshares",
+    "defaultMessage": "Мечи на орала",
     "description": "Title of Agenda Card: Swords to Plowshares"
   },
   "Agendas.Terraforming Initiative.Description": {
-    "defaultMessage": "Attach this card to the elected planet's card.{br}The resource and influence values of this planet are increased by 1.",
+    "defaultMessage": "Прикрепите эту карту к карте выбранной планеты.{br}Значения ресурсов и влияния этой планеты увеличиваются на 1.",
     "description": "Description for Agenda Card: Terraforming Initiative"
   },
   "Agendas.Terraforming Initiative.Title": {
-    "defaultMessage": "Terraforming Initiative",
+    "defaultMessage": "Терраформирование",
     "description": "Title of Agenda Card: Terraforming Initiative"
   },
   "Agendas.The Crown of Emphidia.Description": {
-    "defaultMessage": "The elected player gains this card and 1 victory point.{br}A player gains this card and 1 victory point after they gain control of a planet in the home system of this card's owner.{br}Then, the previous owner of this card loses 1 victory point.",
+    "defaultMessage": "Выбранный игрок получает эту карту и 1 победное очко. Другой игрок получает эту карту и 1 победное очко, после того как получил контроль над планетой в родной системе обладателя этой карты.{br}Затем предыдущий владелец этой карты теряет 1 победное очко.",
     "description": "Description for Agenda Card: The Crown of Emphidia"
   },
   "Agendas.The Crown of Emphidia.Title": {
-    "defaultMessage": "The Crown of Emphidia",
+    "defaultMessage": "Корона Эмфидии",
     "description": "Title of Agenda Card: The Crown of Emphidia"
   },
   "Agendas.The Crown of Thalnos.Description": {
-    "defaultMessage": "The elected player gains this card.{br}During each combat round, the owner of this card may reroll any number of dice; they must destroy each of their units that did not produce a hit with its reroll.",
+    "defaultMessage": "Выбранный игрок получает эту карту.{br}Во время каждого раунда боя владелец этой карты может перебросить любое количество кубиков; он должен уничтожить каждый отряд, который не нанёс попаданий после переброса кубиков.",
     "description": "Description for Agenda Card: The Crown of Thalnos"
   },
   "Agendas.The Crown of Thalnos.Title": {
-    "defaultMessage": "The Crown of Thalnos",
+    "defaultMessage": "Корона Танлоса",
     "description": "Title of Agenda Card: The Crown of Thalnos"
   },
   "Agendas.Unconventional Measures.Description": {
-    "defaultMessage": "FOR : Each player that voted \"For\" draws 2 action cards.{br}AGAINST : Each player that voted \"For\" discards all of their action cards.",
+    "defaultMessage": "За: каждый игрок проголосовавший \"за\" берёт по 2 карты действий.{br}Против: каждый игрок проголосовавший \"за\" сбрасывает все свои карты действий.",
     "description": "Description for Agenda Card: Unconventional Measures"
   },
   "Agendas.Unconventional Measures.Title": {
-    "defaultMessage": "Unconventional Measures",
+    "defaultMessage": "Нетрадиционные меры",
     "description": "Title of Agenda Card: Unconventional Measures"
   },
   "Agendas.Wormhole Reconstruction.Description": {
-    "defaultMessage": "FOR : All systems that contain either an alpha or beta wormhole are adjacent to each other.{br}AGAINST : Each player places a command token from their reinforcements in each system that contains a wormhole and 1 or more of their ships.",
+    "defaultMessage": "За: Все системы, в которых есть альфа- или бета-червоточина, считаются смежными.{br}Против: каждый игрок кладёт 1 жетон приказа из своего снабжения в каждую систему, где есть червоточина и хотя бы 1 его корабль.",
     "description": "Description for Agenda Card: Wormhole Reconstruction"
   },
   "Agendas.Wormhole Reconstruction.Title": {
-    "defaultMessage": "Wormhole Reconstruction",
+    "defaultMessage": "Перестройка червоточин",
     "description": "Title of Agenda Card: Wormhole Reconstruction"
   },
   "Agendas.Wormhole Research.Description": {
-    "defaultMessage": "FOR : Each player who has 1 or more ships in a system that contains a wormhole may research 1 technology. Then, destroy all ships in systems that contain an alpha or beta wormhole.{br}AGAINST : Each player that voted \"Against\" removes 1 command token from their command sheet and returns it to their reinforcements.",
+    "defaultMessage": "За: каждый игрок, у которого есть хотя бы 1 корабль в системе с червоточиной, может исследовать 1 технологию. Затем уничтожьте все корабли в системах с альфа- или бета-червоточинами.{br}Против: каждый игрок, проголосовавший \"против\", возвращает 1 жетон приказа со своего планшета приказов в снабжение.",
     "description": "Description for Agenda Card: Wormhole Research"
   },
   "Agendas.Wormhole Research.Title": {
-    "defaultMessage": "Wormhole Research",
+    "defaultMessage": "Исследование червоточин",
     "description": "Title of Agenda Card: Wormhole Research"
   },
   "Alcp4i": {
